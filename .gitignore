@@ -21,10 +21,7 @@ venv/
 # OS
 .DS_Store
 
+# Local databases and backups
 *.db
-.db-*
+*.db-*
 *.bak
-
-.hermes/
-
-AGENTS.md
